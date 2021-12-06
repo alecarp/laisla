@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"intro","order":1,"parentId":0,"scrollX":797.4545454545455,"scrollY":649.0909090909091},
+{"id":2,"expanded":false,"name":"Inicial_1a","order":2,"parentId":0,"scrollX":1116,"scrollY":2480.5},
+{"id":3,"expanded":true,"name":"mapa2","order":3,"parentId":0,"scrollX":1558.909090909091,"scrollY":3112.3636363636365},
+{"id":4,"expanded":false,"name":"mapa2_b","order":4,"parentId":3,"scrollX":801.8181818181819,"scrollY":631.6363636363636}
+]
